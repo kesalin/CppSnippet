@@ -17,7 +17,7 @@ Sequential search, Binary search, Blocking search, Hash search, Binary search tr
 Binary search tree, B Tree, Red Black Tree
 
 简介
-这个项目是关于算法的，如排序，查找，tree，A-Star等常用算法。
+这个项目是关于算法的，如排序，查找，tree，A-Star 等常用算法。
 
 *** 排序 *** 
 插入排序, 希尔排序, 冒泡排序, 快速排序, 选择排序, 堆排序, 归并排序, 计数排序, 桶/箱排序, 基数排序
